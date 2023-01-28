@@ -1,2 +1,2 @@
-# Tarea-1
-Tarea 1- Karim y Luis
+# Tarea #1
+Estudiantes Hanz Peña y Luis Ahumada
